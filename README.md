@@ -17,7 +17,7 @@ Write the C Program using Linux IO Systems locking
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-DEVELOPED BY :
+DEVELOPED BY :  
 NAME : HARISHKUMAR R  
 REG NO : 212223230073
 
