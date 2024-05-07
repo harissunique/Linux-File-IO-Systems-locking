@@ -23,7 +23,7 @@ REG NO : 212223230073
 
 ## i)To Write a C program that illustrates files copying 
 
-```
+```c
 #include <unistd.h>
 #include <sys/stat.h>
 #include <fcntl.h>
@@ -43,7 +43,7 @@ exit(0);}
 
 ## ii)To Write a C program that illustrates files locking
 
-```
+```c
 #include <fcntl.h>
 #include <stdio.h>
 #include <string.h>
